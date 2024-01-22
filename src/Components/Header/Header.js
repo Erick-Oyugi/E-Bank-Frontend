@@ -1,4 +1,4 @@
-import logo from './logo.png'
+import logo from './logo-removebg-preview.png'
 
 
 function Header (){
@@ -7,7 +7,7 @@ function Header (){
         <header>
         <nav class="navbar navbar-expand-lg navbar-dark">
           <div class="container">
-            <img src={logo} alt="logo" width="60" />
+            <img src={logo} alt="logo" width="150" />
             <a class="navbar-brand" href="#"> </a>
             <button
               class="navbar-toggler"
